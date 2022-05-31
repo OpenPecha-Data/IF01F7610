@@ -1,0 +1,25 @@
+id: IF01F7610
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:41:59.952599'
+last_modified: '2022-05-31T06:41:59.952610'
+parser: null
+source_metadata:
+  title: Orgyen Lingpa Series
+  language: bo
+  description: 'Texts by the famous treasure revealer Orgyen Lingpa (o rgyan gling
+    pa, b. 1323):'
+  volume:
+    fA595:
+      title: A Concise History of Orgyen Padma’s Enlightened Deeds
+      base_file: fA595.txt
+      order: 1
+      parent: History
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
